@@ -12,9 +12,7 @@ Data Analyst · Business Intelligence · Data Integration · Data Engineering
 
 ---
 
-## 👩‍💻 About Me
-
-📍 Rio de Janeiro, Brasil
+## 👩‍💻 Contact Me
 
 [🔗 LinkedIn](https://www.linkedin.com/in/mariana-batista-591a18141)
 
