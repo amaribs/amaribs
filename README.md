@@ -43,14 +43,6 @@ Data Analyst · Business Intelligence · Data Integration · Data Engineering
 
 ---
 
-## 🌎 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Intermediate
-- 🇪🇸 Spanish — Basic
-
----
-
 ## 📊 Areas of Interest
 
 - Data Engineering
