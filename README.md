@@ -14,14 +14,6 @@ Data Analyst · Business Intelligence · Data Integration · Data Engineering
 
 ## 👩‍💻 About Me
 
-Sou profissional da área de dados, com trajetória na AXA Seguros desde 2018 e experiência em Business Intelligence desde 2021.
-
-Ao longo da minha carreira, desenvolvi experiência na extração, integração, consolidação e validação de dados de diferentes fontes, além da criação e gestão de Dataflows no Power BI para automatização e organização de processos.
-
-Tenho atuação no desenvolvimento de indicadores, dashboards e análises que apoiam a tomada de decisão estratégica, sempre buscando melhorar a qualidade das informações, otimizar processos e transformar dados em insights para o negócio.
-
-Atualmente, estou direcionando meu desenvolvimento profissional para Engenharia de Dados, aprofundando meus conhecimentos em SQL e Python e explorando novas possibilidades no universo de dados.
-
 📍 Rio de Janeiro, Brasil
 
 [🔗 LinkedIn](https://www.linkedin.com/in/mariana-batista-591a18141)
@@ -48,23 +40,6 @@ Atualmente, estou direcionando meu desenvolvimento profissional para Engenharia 
 - Process Automation
 - Data Analysis
 - KPIs & Dashboards
-
-## 🎓 Education
-
-- **Pós-graduação em Ciências de Dados e Inteligência Artificial** — PUC-RS (2024)
-- **Extensão em Marketing Intelligence, Data Analytics e Agile Management** — PUC-RS (2024)
-- **Pós-graduação em Logística e Supply Chain Management** — FGV (2021)
-- **Bacharelado em Administração** — Universidade Veiga de Almeida (2020)
-
----
-
-## 📚 Courses & Certifications
-
-- Visualização de Dados com Python — LinkedIn (2024)
-- Fundamentos de Data Science e Inteligência Artificial — Data Science Academy (2024)
-- Jornada Python — Hashtag (2024)
-- Big Data e Inteligência Artificial: O Poder dos Dados — LinkedIn (2024)
-- Curso de VBA — MOTIM (2019)
 
 ---
 
