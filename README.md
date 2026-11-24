@@ -41,18 +41,5 @@ Data Analyst · Business Intelligence · Data Integration · Data Engineering
 - Data Analysis
 - KPIs & Dashboards
 
----
-
-## 📊 Areas of Interest
-
-- Data Engineering
-- Business Intelligence
-- Data Analytics
-- Data Integration
-- Data Quality
-- Data Automation
-- Data Modeling
-
-
 *"Transforming data into insights and opportunities for better decisions."*
 
